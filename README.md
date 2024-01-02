@@ -1,17 +1,26 @@
-<h1 align="center">Hi there, I'm <a href="t.me/@arseniyMuravyev" target="_blank">Arseniy</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Yandex Practicum student, hard worker✨</h3>
+<h1 align="center">Hi 👋, I'm Arseniy</h1>
+<h3 align="center">Yandex Practicum student, passionate frontend developer from Russia</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArseniyMuravyev)](https://github-profile-trophy.vercel.app/?username=ArseniyMuravyev&row=1)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arseniymuravyev" alt="arseniymuravyev" /></a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyMuravyev&layout=compact)](https://github.com/ArseniyMuravyev/github-readme-stats) 
+- 🔭 I’m currently working on interesting pet-project [99 coins](https://github.com/ArseniyMuravyev/99-coins)
 
-[![codewars](https://www.codewars.com/users/ArseniyMuravyev28/badges/small)](https://www.codewars.com/users/ArseniyMuravyev28) 
+- 🌱 I’m currently learning **React, infinite JS**
 
-- 🔭 I’m currently working on interesting pet-project
-- 🌱 I’m currently learning React, infinite JS      
-- 💬 Ask me about anything      
+- 💬 Ask me about **anything**
 
-<a href="t.me/@arseniyMuravyev" style="margin-top: 12px">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://www.instagram.com/muravyev_arseniy" style="margin-top: 12px">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://api.whatsapp.com/send?phone=89279705901" style="margin-top: 12px">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+- 📫 How to reach me **aamuravyev28@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/muravyev_arseniy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muravyev_arseniy" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arseniymuravyev&show_icons=true&locale=en&layout=compact" alt="arseniymuravyev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arseniymuravyev&show_icons=true&locale=en" alt="arseniymuravyev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arseniymuravyev&" alt="arseniymuravyev" /></p>
