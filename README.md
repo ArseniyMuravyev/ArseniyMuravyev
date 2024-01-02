@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **aamuravyev28@gmail.com**
+- 📫 How to reach me **https://t.me/arseniyMuravyev**
 
 <h3 align="left">Connect with me:</h3>
   
-<a href="t.me/@arseniyMuravyev">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://t.me/arseniyMuravyev">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://www.instagram.com/muravyev_arseniy">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://api.whatsapp.com/send?phone=89279705901">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
