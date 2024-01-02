@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Yandex Practicum student, hard worker✨</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ArseniyMuravyev/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArseniyMuravyev&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ArseniyMuravyev&row=1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyMuravyev&layout=compact)](https://github.com/ArseniyMuravyev/github-readme-stats) 
 [![codewars](https://www.codewars.com/users/ArseniyMuravyev28/badges/small)](https://www.codewars.com/users/ArseniyMuravyev28) 
 
