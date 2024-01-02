@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="t.me@arseniyMuravyev" target="_blank">Arseniy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Yandex Practicum student, hard worker</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyMuravyev&layout=compact)](https://github.com/ArseniyMuravyev/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArseniyMuravyev)]
 <!--
 **ArseniyMuravyev/ArseniyMuravyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
