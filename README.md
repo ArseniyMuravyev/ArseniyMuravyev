@@ -22,8 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arseniymuravyev&show_icons=true&locale=en&layout=compact" alt="arseniymuravyev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arseniymuravyev&show_icons=true&locale=en" alt="arseniymuravyev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arseniymuravyev&" alt="arseniymuravyev" /></p>
 
 [![codewars](https://www.codewars.com/users/ArseniyMuravyev28/badges/small)](https://www.codewars.com/users/ArseniyMuravyev28) 
