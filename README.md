@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arseniy</h1>
 <h3 align="center">Yandex Practicum student, passionate frontend developer from Russia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arseniymuravyev" alt="arseniymuravyev" /></a> </p>
-
 - 🔭 I’m currently working on interesting pet-project [99 coins](https://github.com/ArseniyMuravyev/99-coins)
 
 - 🌱 I’m currently learning **React, infinite JS**
