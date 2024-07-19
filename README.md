@@ -23,4 +23,4 @@
     <img src="https://skillicons.dev/icons?i=sass,tailwind,ts,nodejs,git,firebase,react,redux,docker,express,mongodb,figma,nextjs,neovim" />
 </p>
 
-![Codewars](https://github.r2v.ch/codewars?user=ArseniyMuravyev28)
+<div align="center">![Codewars](https://github.r2v.ch/codewars?user=ArseniyMuravyev28)</div>
