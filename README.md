@@ -24,11 +24,7 @@
 </p>
 
 <h2 align="center">Codewars</h2>
-<style>
-.codewars-stats {
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-![Codewars](https://github.r2v.ch/codewars?user=ArseniyMuravyev28)
+
+<p align="center">
+    <img src="https://www.codewars.com/users/ArseniyMuravyev28/badges/large" />
+</p>
