@@ -7,7 +7,7 @@
 
 - 💼 My portfolio **https://the-monk.online**
 
-- 👾 Codewars account **** 
+- 👾 Codewars account **https://www.codewars.com/users/ArseniyMuravyev28** 
 
 <h2 align="center"> Connect With Me </h2>
 
