@@ -7,6 +7,8 @@
 
 - 💼 My portfolio **https://the-monk.online**
 
+- 👾 Codewars account **** 
+
 <h2 align="center"> Connect With Me </h2>
 
 <p align="center">
@@ -20,3 +22,5 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=sass,tailwind,ts,nodejs,git,firebase,react,redux,docker,express,mongodb,figma,nextjs,neovim" />
 </p>
+
+![Codewars](https://github.r2v.ch/codewars?user=ArseniyMuravyev28)
