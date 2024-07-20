@@ -19,6 +19,10 @@
 
 - Stellar Burgers **https://github.com/ArseniyMuravyev/stellar-burgers**
 
+<h2 align="center"> About me </h2>
+
+<p>I joined frontend a year and a half ago. My path to IT started with gamedev, but quickly realized that this was not my thing and began to study web development. I like to learn something new, for example, in addition to developing in the frontend, I study French. In my spare time, I like to read (mostly biographies and other non-fiction) and watch good movies (Intouchables, Oppenheimer, The Shawshank Redemption, Inception) </p>
+
 <h2 align="center"> Connect With Me </h2>
 
 <p align="center">
