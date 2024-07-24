@@ -34,7 +34,7 @@
 <h2 align="center"> Languages and Tools </h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=scss,tailwind,ts,nodejs,git,react,redux,docker,express,mongodb,nextjs" />
+    <img src="https://skillicons.dev/icons?i=scss,tailwind,ts,git,react,redux,docker,express,mongodb,nextjs" />
 </p>
 
 <h2 align="center">Codewars</h2>
