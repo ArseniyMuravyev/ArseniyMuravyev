@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arseniy</h1>
 <h3 align="center">Passionate frontend developer from Russia</h3>
 
-- 🔭 I’m currently working on interesting pet-project SG Hub and learning how to create my own messanger 
+- 🔭 I’m currently working on interesting pet-project The Heroes and learning how to create my own messanger 
  
 - 📫 How to reach me **https://t.me/arseniyMuravyev**
 
