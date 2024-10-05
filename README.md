@@ -15,9 +15,9 @@
 
 - SG Hub **https://github.com/ArseniyMuravyev/SG-Hub**
 
-- Animated Portfolio **https://github.com/ArseniyMuravyev/Portfolio**
+- Sleepi **https://github.com/ArseniyMuravyev/Sleepi**
 
-- Stellar Burgers **https://github.com/ArseniyMuravyev/stellar-burgers**
+- The Heroes **https://github.com/ArseniyMuravyev/the-heroes**
 
 <h2 align="center"> About me </h2>
 
